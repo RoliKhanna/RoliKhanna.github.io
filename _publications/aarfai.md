@@ -1,7 +1,7 @@
 ---
 title: "Keeping it "organized and logical": after-action review for AI (AAR/AI)"
 collection: publications
-permalink: /publications/aarfai
+permalink: /publications/aarfai/
 excerpt: 'AAR, or After-Action Review, is a method some military organizations use to assess human agents, and it has been validated in many domains. Drawing upon this strategy, we derived an AAR for AI, to organize ways people assess reinforcement learning (RL) agents in a sequential decision-making environment. The results of our qualitative study revealed several strengths and weaknesses of the AAR/AI process and the explanations embedded within it.'
 date: 2010-10-01
 venue: 'IUI 2020'
