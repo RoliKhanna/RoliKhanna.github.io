@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. Finding AI’s Faults with AAR/AI: An Empirical Study
-  * **Roli Khanna**, Jonathan Dodge, Andrew A. Ander- son, Rupika Dikkala, Jed Irvine, Zeyad Shureih, Kin-Ho Lam, Caleb R. Matthews, Minsuk Kahng, Alan Fern, and Margaret Burnett
+  * **Roli Khanna**, Jonathan Dodge, Andrew Anderson, Rupika Dikkala, Jed Irvine, Zeyad Shureih, Kin-Ho Lam, Caleb R. Matthews, Minsuk Kahng, Alan Fern, and Margaret Burnett
   * (under review)
 
 2. After-Action Review for AI (AAR/AI)
