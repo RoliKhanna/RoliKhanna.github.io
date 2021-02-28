@@ -49,7 +49,7 @@ Skills
 * Languages: Python, C++, Java, JavaScript, SQL, Bash, Assembly
 * Work: Design Thinking, Agile, Lean, AI Product management, Risk validation, Interdisciplinary and cross-functional teamwork
 
-Service and leadership
+Service
 ======
 * Paper Reviewer for PacificVis 2021
 * Paper Reviewer for IUI 2021
