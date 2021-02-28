@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Roli, a graduate MSc/PhD student at Oregon State University. I primarily work on creating explanations for AI systems. My interests vary from Reinforcement learning to information visualization.
+Hi there! I'm Roli, a graduate student at Oregon State University. I primarily work on creating explanations for AI systems. My interests vary from Reinforcement learning to information visualization.
