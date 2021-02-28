@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.Sc/Ph.D in Computer Science, Oregon State University, 2018--present
+* M.Sc. in Computer Science, Oregon State University, 2018--present
 * B.Tech. in Computer and Communication Engineering, Manipal Institute of Technology, 2013--17
 
 Work experience
@@ -41,7 +41,7 @@ Work experience
 
 * Summer 2016: Intern
   * Wipro, Bengaluru, India
-  * Worked on Object detection and tracking of objects on the road for autonomous vehicles. 
+  * Worked on Object detection and tracking of objects on the road for autonomous vehicles.
 
 Skills
 ======
@@ -49,20 +49,9 @@ Skills
 * Languages: Python, C++, Java, JavaScript, SQL, Bash, Assembly
 * Work: Design Thinking, Agile, Lean, AI Product management, Risk validation, Interdisciplinary and cross-functional teamwork
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Service and leadership
 ======
+* Paper Reviewer for PacificVis 2021
 * Paper Reviewer for IUI 2021
 * Paper Reviewer for AAAI 2021
 * Paper Reviewer for CSCW 2020
