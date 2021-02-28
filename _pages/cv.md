@@ -41,7 +41,7 @@ Work experience
 
 * Summer 2016: Intern
   * Wipro, Bengaluru, India
-  * Worked on Object detection and tracking of objects on the road for autonomous vehicles.
+  * Worked on Object detection and tracking of objects on the road for autonomous vehicles. 
 
 Skills
 ======
@@ -51,7 +51,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publication %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
