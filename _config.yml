@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Logo.png"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Roli"
 description              : &description "ML/UX graduate student"

@@ -10,6 +10,7 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
+              rc="{{ prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="Logo.png">
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
