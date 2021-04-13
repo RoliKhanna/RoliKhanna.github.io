@@ -1,10 +1,18 @@
 ---
-title: "Anchor Free topic modelling"
-excerpt: "Topic modelling in text data using anchor free correlations.<br/><img src='/images/anchor.png'>"
+title: "What do users need to understand an AI's explanation?"
+excerpt: "Users require a specific set of methods, processes and artefacts to understand and reasonably use an AI's explanation.<br/><img src='/images/game_screen.pdf'>"
 collection: portfolio
 ---
 
-Every industry in today’s day and age generates an unprecedented amount of data, it has become increasingly imperative to obtain “Information” from the data. With the growing amount of data in recent years, most of which is unstructured, it’s difficult to obtain the relevant and desired information. One technique used to mine through the data and fetch the information that we are looking for is Topic Modelling. Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection. There exist different methodologies of building text models, such as, LDA, LDA with Gibbs sampling, and Correlated Topic Modelling. I've implemented Anchor Free Correlated Topic modelling.
+Imagine you're Pat. You're a pilot in an aviation company called FlyAir, and there's been a plane crash recently. You're part of the committee that has to find out what went wrong with the plane. The twist is that one of the components of the plane is an AI system, and it's your job to find out if it may have had responsibility in the crash.
+
+That's the problem I'm trying to solve: How do we facilitate domain experts like Pat to understand and successfully debug artificially intelligent systems when they might have no knowledge of the underpinnings of AI.
+
+To begin the investigation, let's first establish the specific domain and AI system.
+
+![The AAR/AI process that helped users navigate the AI's explanation and domain](/images/aarai_process.png)
+
+![The AI's (Reinforcement learning agent) explanation](/images/aarai_explanation.png)
 
 <!-- Portfolio/Project items:
 
