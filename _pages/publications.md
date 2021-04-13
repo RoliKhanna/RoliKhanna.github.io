@@ -13,7 +13,7 @@ author_profile: true
   * Jonathan Dodge, **Roli Khanna**, Jed Irvine, Kin-Ho Lam, Theresa Mai, Zhengxian Lin, Nicholas Kiddle, Evan Newman, Andrew Anderson, Sai Raja, Caleb Matthews, Christopher Perdriau, Margaret Burnett, and Alan Fern
   * (under submission)
 
-3. Doing COVID-era Controlled Studies with Humans: Tales from the Trenches
+3. [Doing COVID-era Controlled Studies with Humans: Tales from the Trenches](http://web.engr.oregonstate.edu/~burnett/Reprints/chase21-remoteStudiesCOVID.pdf)
   * Rupika Dikkala, **Roli Khanna**, Caleb Matthews, Jonathan Dodge, Sai Raja, Catherine Hu, Jed Irvine, Zeyad Shureih, Kin-Ho Lam, Andrew Anderson, Minsuk Kahng, Alan Fern and Margaret Burnett
   * (under submission)
 
