@@ -11,12 +11,17 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, Oregon State University, 2018--present
+* M.Sc. in Computer Science, Oregon State University, 2018--21
 * B.Tech. in Computer and Communication Engineering, Manipal Institute of Technology, 2013--17
 
 Work experience
 ======
-* 2019 -- present: Graduate Research Assistant
+* 2021 -- present: UX Researcher
+  * Microsoft (Cloud + AI)
+  * AI Experiences (horizontal) team
+  * Conducted research across product and design teams to improve and incorporate AI features and capabilities seamlessly and responsibly.
+
+* 2019 -- 2021: Graduate Research Assistant
   * Oregon State University, Corvallis, OR
   * Research on producing sound and interpretable explanations for Reinforcement learning systems (such as RTS games, Atari breakout)
   * Conducting qualitative and quantitative user studies to evaluate XAI systems.
