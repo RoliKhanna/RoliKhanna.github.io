@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Finding AI’s Faults with AAR/AI: An Empirical Study
+1. [Finding AI’s Faults with AAR/AI: An Empirical Study](https://dl.acm.org/doi/10.1145/3487065)
   * **Roli Khanna**, Jonathan Dodge, Andrew Anderson, Rupika Dikkala, Jed Irvine, Zeyad Shureih, Kin-Ho Lam, Caleb R. Matthews, Minsuk Kahng, Alan Fern, and Margaret Burnett
-  * (under review)
+  * ACM ACM Transactions on Interactive Intelligent Systems 2022, Volume 12.
 
-2. After-Action Review for AI (AAR/AI)
+2. [After-Action Review for AI (AAR/AI)](https://dl.acm.org/doi/10.1145/3453173)
   * Jonathan Dodge, **Roli Khanna**, Jed Irvine, Kin-Ho Lam, Theresa Mai, Zhengxian Lin, Nicholas Kiddle, Evan Newman, Andrew Anderson, Sai Raja, Caleb Matthews, Christopher Perdriau, Margaret Burnett, and Alan Fern
-  * (under submission)
+  * ACM Transactions on Interactive Intelligent Systems 2021, Volume 11.
 
 3. [Doing COVID-era Controlled Studies with Humans: Tales from the Trenches](http://web.engr.oregonstate.edu/~burnett/Reprints/chase21-remoteStudiesCOVID.pdf)
   * Rupika Dikkala, **Roli Khanna**, Caleb Matthews, Jonathan Dodge, Sai Raja, Catherine Hu, Jed Irvine, Zeyad Shureih, Kin-Ho Lam, Andrew Anderson, Minsuk Kahng, Alan Fern and Margaret Burnett
-  * (under submission)
+  * CHASE 2021.
 
 4. [Counterfactual state explanations for reinforcement learning agents via generative deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0004370221000060)
   * Matthew L. Olson, **Roli Khanna**, Lawrence Neal , Fuxin Li , Weng- Keen Wong
